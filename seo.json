@@ -1,0 +1,167 @@
+{
+  "site": {
+    "name": "PushAnything IPTV",
+    "domain": "pushanything.com",
+    "url": "https://pushanything.com",
+    "slogan": "Premium Streaming Solutions For Modern Viewers",
+    "description": "PushAnything IPTV is a premium IPTV subscription marketing and lead-generation platform. We help modern viewers find and subscribe to high-quality IPTV streaming services via WhatsApp.",
+    "contact": {
+      "whatsapp": "+212602321305",
+      "whatsapp_url": "https://wa.me/212602321305",
+      "email": "salatrir@gmail.com"
+    }
+  },
+  "pages": {
+    "home": {
+      "title": "PushAnything IPTV — Premium Streaming Solutions For Modern Viewers",
+      "description": "PushAnything IPTV offers premium IPTV subscription services with HD and 4K streaming on Smart TV, Android TV, iPhone, iPad, Windows, Mac, and Fire TV Stick. Order via WhatsApp.",
+      "canonical": "https://pushanything.com/",
+      "og_title": "PushAnything IPTV — Premium Streaming Solutions",
+      "og_description": "Premium IPTV subscription service. HD & 4K streaming on all devices. Order on WhatsApp — fast setup, 24/7 support."
+    },
+    "plans": {
+      "title": "IPTV Subscription Plans — PushAnything IPTV",
+      "description": "Choose from Monthly, Quarterly, Semi-Annual, or Annual IPTV subscription plans. All plans include HD/4K streaming, multi-device support, and 24/7 WhatsApp support.",
+      "canonical": "https://pushanything.com/#plans"
+    },
+    "devices": {
+      "title": "IPTV Device Compatibility — Smart TV, Android, iOS, Windows, Mac | PushAnything",
+      "description": "PushAnything IPTV works on Smart TV, Android TV, Android phones, iPhone, iPad, Windows, Mac, and Fire TV Stick. Find setup guides for every device.",
+      "canonical": "https://pushanything.com/#devices"
+    },
+    "blog": {
+      "title": "IPTV Blog & Setup Guides — PushAnything IPTV",
+      "description": "100+ IPTV guides, tutorials, and tips. Learn how to set up IPTV on any device, fix common issues, and get the most from your streaming subscription.",
+      "canonical": "https://pushanything.com/#blog"
+    },
+    "faq": {
+      "title": "IPTV FAQ — Frequently Asked Questions | PushAnything IPTV",
+      "description": "Answers to common questions about IPTV subscriptions, device setup, compatibility, installation, and support. Get help fast on WhatsApp.",
+      "canonical": "https://pushanything.com/#faq"
+    },
+    "contact": {
+      "title": "Contact PushAnything IPTV — WhatsApp & Email Support",
+      "description": "Contact PushAnything IPTV via WhatsApp (+212602321305) or email (salatrir@gmail.com) for subscriptions, setup help, and support.",
+      "canonical": "https://pushanything.com/#contact"
+    }
+  },
+  "keywords": {
+    "primary_en": [
+      "IPTV subscription",
+      "streaming service",
+      "IPTV setup guide",
+      "Smart TV streaming",
+      "IPTV Android TV",
+      "IPTV iPhone",
+      "IPTV Windows",
+      "Fire TV Stick IPTV",
+      "HD streaming",
+      "4K IPTV"
+    ],
+    "primary_ar": [
+      "اشتراك IPTV",
+      "خدمات البث التلفزيوني",
+      "إعداد IPTV",
+      "IPTV تلفزيون ذكي",
+      "خدمة IPTV"
+    ],
+    "primary_fr": [
+      "abonnement IPTV",
+      "service IPTV",
+      "streaming TV",
+      "IPTV Smart TV",
+      "installation IPTV"
+    ],
+    "primary_es": [
+      "suscripción IPTV",
+      "servicio IPTV",
+      "streaming TV",
+      "IPTV Smart TV",
+      "configurar IPTV"
+    ],
+    "long_tail_en": [
+      "how to set up IPTV on Smart TV",
+      "best IPTV subscription service",
+      "IPTV setup guide for beginners",
+      "IPTV on Fire TV Stick step by step",
+      "IPTV buffering fix",
+      "IPTV vs cable TV comparison",
+      "cheap IPTV subscription",
+      "IPTV subscription WhatsApp order"
+    ]
+  },
+  "schema": {
+    "organization": {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "PushAnything IPTV",
+      "url": "https://pushanything.com",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+212602321305",
+        "contactType": "customer service"
+      },
+      "email": "salatrir@gmail.com"
+    }
+  },
+  "hreflang": {
+    "en": "https://pushanything.com/",
+    "ar": "https://pushanything.com/?lang=ar",
+    "fr": "https://pushanything.com/?lang=fr",
+    "es": "https://pushanything.com/?lang=es",
+    "x-default": "https://pushanything.com/"
+  },
+  "topic_clusters": {
+    "cluster_1": {
+      "pillar": "IPTV Setup Guide",
+      "supporting": [
+        "Smart TV IPTV Setup",
+        "Android TV IPTV Setup",
+        "Fire TV Stick IPTV",
+        "iPhone iPad IPTV",
+        "Windows IPTV",
+        "Mac IPTV",
+        "Best IPTV Players",
+        "M3U Playlist Setup",
+        "EPG Setup"
+      ]
+    },
+    "cluster_2": {
+      "pillar": "IPTV Troubleshooting",
+      "supporting": [
+        "Fix IPTV Buffering",
+        "IPTV Black Screen Fix",
+        "IPTV No Sound Fix",
+        "IPTV App Crashing",
+        "IPTV Not Working"
+      ]
+    },
+    "cluster_3": {
+      "pillar": "IPTV Technology",
+      "supporting": [
+        "What is IPTV",
+        "IPTV vs Cable TV",
+        "IPTV vs Satellite",
+        "4K IPTV Streaming",
+        "Future of IPTV"
+      ]
+    },
+    "cluster_4": {
+      "pillar": "IPTV Streaming Tips",
+      "supporting": [
+        "Improve Streaming Quality",
+        "Internet Speed Requirements",
+        "Router Optimization",
+        "Multi-Device Setup",
+        "Wired vs WiFi"
+      ]
+    }
+  },
+  "internal_linking": {
+    "home_links_to": ["plans", "devices", "blog", "faq", "contact"],
+    "plans_links_to": ["contact", "faq"],
+    "devices_links_to": ["plans", "blog", "contact"],
+    "blog_links_to": ["plans", "devices", "contact"],
+    "faq_links_to": ["contact", "plans"]
+  }
+}

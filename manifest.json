@@ -1,0 +1,42 @@
+{
+  "name": "PushAnything IPTV",
+  "short_name": "PushAnything",
+  "description": "Premium Streaming Solutions For Modern Viewers — IPTV subscriptions via WhatsApp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080b10",
+  "theme_color": "#080b10",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["entertainment", "video", "streaming"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='102' fill='%23080b10'/><polygon points='180,128 384,256 180,384' fill='%2300d4ff'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "View Plans",
+      "short_name": "Plans",
+      "description": "View IPTV subscription plans",
+      "url": "/#plans"
+    },
+    {
+      "name": "WhatsApp Order",
+      "short_name": "Order",
+      "description": "Order via WhatsApp",
+      "url": "https://wa.me/212602321305?text=Hi!%20I'd%20like%20to%20order%20an%20IPTV%20subscription."
+    },
+    {
+      "name": "Blog",
+      "short_name": "Blog",
+      "description": "IPTV guides and tutorials",
+      "url": "/#blog"
+    }
+  ]
+}

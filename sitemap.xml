@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Home -->
+  <url>
+    <loc>https://pushanything.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pushanything.com/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://pushanything.com/?lang=ar"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pushanything.com/?lang=fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://pushanything.com/?lang=es"/>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Plans -->
+  <url>
+    <loc>https://pushanything.com/#plans</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Devices -->
+  <url>
+    <loc>https://pushanything.com/#devices</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pushanything.com/#devices/smart-tv</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pushanything.com/#devices/android-tv</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pushanything.com/#devices/android-phone</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pushanything.com/#devices/iphone-ipad</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pushanything.com/#devices/windows</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pushanything.com/#devices/mac</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pushanything.com/#devices/fire-tv</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Blog -->
+  <url>
+    <loc>https://pushanything.com/#blog</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog Articles -->
+  <url><loc>https://pushanything.com/#blog/how-to-set-up-iptv-on-smart-tv</loc><lastmod>2024-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pushanything.com/#blog/iptv-setup-android-tv-box</loc><lastmod>2024-01-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pushanything.com/#blog/iptv-on-firestick-complete-guide</loc><lastmod>2024-01-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pushanything.com/#blog/iptv-setup-iphone-ipad</loc><lastmod>2024-02-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pushanything.com/#blog/iptv-windows-pc-setup</loc><lastmod>2024-02-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pushanything.com/#blog/iptv-mac-setup-guide</loc><lastmod>2024-02-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pushanything.com/#blog/iptv-android-phone-setup</loc><lastmod>2024-02-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pushanything.com/#blog/best-iptv-players-2024</loc><lastmod>2024-02-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pushanything.com/#blog/iptv-m3u-playlist-setup</loc><lastmod>2024-02-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pushanything.com/#blog/iptv-epg-setup-guide</loc><lastmod>2024-03-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pushanything.com/#blog/samsung-smart-tv-iptv-guide</loc><lastmod>2024-03-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pushanything.com/#blog/lg-smart-tv-iptv-setup</loc><lastmod>2024-03-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pushanything.com/#blog/fix-iptv-buffering-issues</loc><lastmod>2024-05-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pushanything.com/#blog/iptv-not-working-troubleshooting</loc><lastmod>2024-05-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pushanything.com/#blog/what-is-iptv-explained</loc><lastmod>2024-06-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pushanything.com/#blog/iptv-vs-cable-tv-comparison</loc><lastmod>2024-06-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pushanything.com/#blog/improve-iptv-streaming-quality</loc><lastmod>2024-04-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pushanything.com/#blog/iptv-internet-speed-requirements</loc><lastmod>2024-05-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- FAQ -->
+  <url>
+    <loc>https://pushanything.com/#faq</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://pushanything.com/#contact</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
